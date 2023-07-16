@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1",
+    "fname": "Ahmed",
+    "lname": "Elkholy",
+    "city": "Mansoura",
+    "age": "23"
+  },
+  {
+    "id": "2",
+    "fname": "Mohamed",
+    "lname": "Ahmed",
+    "city": "Mansoura",
+    "age": "22"
+  },
+  {
+    "id": "3",
+    "fname": "Mohamed",
+    "lname": "Walid",
+    "city": "Mansoura",
+    "age": "21"
+  },
+  {
+    "id": "4",
+    "fname": "Mohamed",
+    "lname": "Walid",
+    "city": "Mansoura",
+    "age": "21"
+  },
+  {
+    "id": "5",
+    "fname": "Ahmed",
+    "lname": "Ahmed",
+    "city": "Mansoura",
+    "age": "19"
+  },
+  {
+    "id": "6",
+    "fname": "Mohamed",
+    "lname": "Walid",
+    "city": "Mansoura",
+    "age": "21"
+  },
+  {
+    "id": "7",
+    "fname": "Mohamed",
+    "lname": "Maher",
+    "city": "Mansoura",
+    "age": "17"
+  }
+
+]
